@@ -24,7 +24,7 @@ Sou **Isabella Dreher**, desenvolvedora **Front-End** em constante evolução, a
 
 ### 🎨 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind," />
 </p>
 
 
@@ -33,7 +33,7 @@ Sou **Isabella Dreher**, desenvolvedora **Front-End** em constante evolução, a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bellapyr&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bellapy&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bellapy&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
