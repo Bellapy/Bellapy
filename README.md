@@ -1,6 +1,8 @@
-
-
-<h1 align="center">✨ Isabella Dreher ✨</h1>
+<h1 align="center">
+  ✨
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=800&color=9B30FF&center=true&vCenter=true&random=false&width=500&lines=Isabella+Dreher" alt="Typing SVG" />
+  ✨
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/FrontEnd-Developer-8A2BE2?style=for-the-badge" />
@@ -20,10 +22,10 @@ Sou **Isabella Dreher**, desenvolvedora **Front-End** em constante evolução, a
 
 ### 🎨 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
 </p>
 
-
+---
 
 ## 📊 Estatísticas do GitHub
 
@@ -33,4 +35,3 @@ Sou **Isabella Dreher**, desenvolvedora **Front-End** em constante evolução, a
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bellapy&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
