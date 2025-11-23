@@ -1,8 +1,4 @@
-<!-- BANNER HOLOGRÁFICO -->
-<p align="center">
-  <!-- Substituir pela imagem holográfica quando pronta -->
-  <img src="BANNER_HOLOGRAFICO_AQUI" width="100%" />
-</p>
+
 
 <h1 align="center">✨ Isabella Dreher ✨</h1>
 
@@ -24,7 +20,7 @@ Sou **Isabella Dreher**, desenvolvedora **Front-End** em constante evolução, a
 
 ### 🎨 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind," />
 </p>
 
 
@@ -38,10 +34,3 @@ Sou **Isabella Dreher**, desenvolvedora **Front-End** em constante evolução, a
 
 </div>
 
----
-
-## 🐍 Animação da cobrinha
-(Será atualizada automaticamente todos os dias.)
-
-```markdown
-![Snake animation](https://github.com/IsabellaDreher/IsabellaDreher/blob/output/github-snake.svg)
