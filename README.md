@@ -1,6 +1,6 @@
 <h1 align="center">
   ✨
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=800&color=9B30FF&center=true&vCenter=true&random=false&width=500&lines=Isabella+Dreher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=800&color=9B30FF&center=true&vCenter=true&random=false&width=500&lines=Olá+!+sou+Isabella+Dreher" alt="Typing SVG" />
   ✨
 </h1>
 
