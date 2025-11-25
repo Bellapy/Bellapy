@@ -1,6 +1,6 @@
 <h1 align="center">
   ✨
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=800&color=9B30FF&center=true&vCenter=true&random=false&width=500&lines=Olá+!+sou+Isabella+Dreher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=800&color=9B30FF&center=true&vCenter=true&random=false&width=500&lines=Oi!+sou+a+isa" alt="Typing SVG" />
   ✨
 </h1>
 
@@ -14,7 +14,7 @@
 
 ## 🌐 Sobre mim
 
-Sou **Isabella Dreher**, desenvolvedora **Front-End** em constante evolução, aprofundando meus conhecimentos em **desenvolvimento web moderno**, **interfaces esteticamente marcantes** e aplicações de **inteligência artificial**.  
+Sou desenvolvedora **Front-End** em formação, aprofundando meus conhecimentos em **desenvolvimento web moderno**, **interfaces esteticamente marcantes** e aplicações de **inteligência artificial**.  
 
 ---
 
