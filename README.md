@@ -22,7 +22,7 @@ Sou desenvolvedora **Front-End** em formação, aprofundando meus conhecimentos 
 
 ### 🎨 Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react," />
 </p>
 
 ---
