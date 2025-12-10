@@ -35,3 +35,9 @@ Sou desenvolvedora **Front-End** em formação, aprofundando meus conhecimentos 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bellapy&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
+
+## 🐍 
+
+<p align="center">
+  <img src="https://github.com/Bellapy/Bellapy/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
