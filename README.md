@@ -1,15 +1,16 @@
 <div align="center">
 
-<!-- Cabeçalho Principal Estilo Dark -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<!-- Cabeçalho Principal -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td align="left" valign="middle" style="padding-right: 20px;">
-      <h1>Boas-vindas ao meu GitHub </h1>
-      <p><i>Construindo soluções robustas e resilientes de ponta a ponta.</i></p>
+    <td align="left" valign="middle">
+      <h1>Boas vindas ao meu Git Hub</h1>
+      <p><b>Desenvolvedora Full-Stack |  interesse em Backend</b></p>
+      <p><i> Python & FastAPI | CI/CD React • Docker • Vibe Engineering</i></p>
     </td>
-    <td align="right" valign="middle">
-      <!-- Imagem/GIF Minimalista no lado direito -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcndndTJ3YnN4ZWF0NHJ5amNpaTV3MndnZ3F4bXNxYmpycjV1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3305D3MltdaBfjv8y/giphy.gif" width="140" alt="Minimalist tech animation" />
+    <td align="right" valign="middle" width="160">
+      <!-- GIF Minimalista Tech -->
+  <img width="1200" height="959" alt="dca01dd7a5d718cca65f3547ece00992" src="https://github.com/user-attachments/assets/9b9b07f5-f46d-46f3-8afd-fe2eba1a9ab7" />
     </td>
   </tr>
 </table>
@@ -18,101 +19,106 @@
 
 <!-- Barra de Conexões e Links Rápidos -->
 <p align="center">
-  <a href="#about-me">
-    <img src="https://img.shields.io/badge/▲--SOBRE--MIM-121212?style=flat-square" alt="Sobre mim"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/isabella-dreher/" target="_blank">
     <img src="https://img.shields.io/badge/🔗--LINKEDIN-121212?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:seu-email@provedor.com">
+  <a href="mailto:isabella.emerichs@gmail.com">
     <img src="https://img.shields.io/badge/✉️--CONTATO-121212?style=flat-square" alt="Contato"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://portifolio-beta-ashy-51.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐--PORTFÓLIO-121212?style=flat-square" alt="Portfólio"/>
   </a>
 </p>
 
 <hr style="border: 1px solid #1A1A1A;">
 
 <!-- Seção Sobre Mim -->
-<h2 id="about-me">Sobre mim</h2>
+<h2>Sobre mim</h2>
 
-<p>
-  Olá, eu sou a Isa — uma Desenvolvedora Full-Stack focada no desenvolvimento de sistemas limpos, escaláveis e eficientes. Valorizo código bem estruturado, boas práticas de engenharia de software e performance em detrimento de soluções temporárias.
+<p>Sou estudante de Sistemas de Informação e Desenvolvedora Full Stack Júnior.
+
+Atuo desenvolvendo soluções de ponta a ponta. Tenho experiência  utilizando Python e FastAPI, para a criação de APIs REST, modelagem de bancos de dados relacionais e integração entre sistemas. utilizando Python e FastAPI.
 </p>
 
 <p align="center">
-  <b>Desenvolvimento Full-Stack</b><br/>
-  Foco em Python, FastAPI, React e Bancos de Dados Relacionais / Cache Distribuído.<br/>
-  Construção de APIs assíncronas e arquiteturas desacopladas.<br/>
-  Forte mindset voltado a Testes Automatizados (TDD) e Integração Contínua (CI/CD).
+  💡 Atualmente, aplico conceitos de <b>System Design</b>, <b>Test-Driven Development (TDD)</b> e metodologias modernas de engenharia auxiliada por IA (<b>Vibe Engineering</b>) para acelerar e garantir a qualidade das minhas entregas.
 </p>
 
 <hr style="border: 1px solid #1A1A1A;">
 
 <!-- Seção de Tecnologias -->
-<h2>Tecnologias</h2>
+<h2>Tecnologias & Ferramentas</h2>
 
-<h3>Linguagens de Programação</h3>
-<p>
+<br/>
+
+<p align="center"><b>⚙️ Back-End & Dados</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=FFE873" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-121212?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-121212?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQL" />
-</p>
-
-<h3>Frameworks, Bibliotecas & Bancos de Dados</h3>
-<p>
   <img src="https://img.shields.io/badge/FastAPI-121212?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-121212?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/PostgreSQL-121212?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-121212?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-121212?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
-  <img src="https://img.shields.io/badge/Zustand-121212?style=flat-square&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Supabase-121212?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
 </p>
 
-<h3>DevOps, Infraestrutura & Colaboração</h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+<br/>
+
+<p align="center"><b>🎨 Front-End</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-121212?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-121212?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+</p>
+
+<br/>
+
+<p align="center"><b>🚀 DevOps, Qualidade & Processos</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-121212?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub_Actions-121212?style=flat-square&logo=github-actions&logoColor=2088FF" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Metodologias_Ágeis-121212?style=flat-square" alt="Agile" />
+  <img src="https://img.shields.io/badge/Git_Flow-121212?style=flat-square&logo=git&logoColor=F05032" alt="Git Flow" />
+  <img src="https://img.shields.io/badge/TDD_/_Testes-121212?style=flat-square" alt="TDD" />
+  <img src="https://img.shields.io/badge/Kanban-121212?style=flat-square" alt="Kanban" />
 </p>
 
 <hr style="border: 1px solid #1A1A1A;">
 
-<!-- Seção de Estatísticas Alinhadas -->
-<h2>Estatísticas</h2>
+<!-- Projeto em Destaque -->
+<h2>⭐ Projeto em Destaque</h2>
+
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td align="center">
+      <h3><b>Synapse - The Thought Weaver</b></h3>
+      <p>Um grafo de conhecimento dinâmico em 3D alimentado por IA Generativa. Transforma perguntas complexas em constelações interativas de conceitos relacionados e contra-argumentos.</p>
+      <p><b>Stack:</b> FastAPI (Python), React (Three.js), Google Gemini API, LangChain, Zustand e TailwindCSS.</p>
+      <a href="https://github.com/Bellapy/synapse" target="_blank"><b>Ver código no GitHub ➔</b></a>
+    </td>
+  </tr>
+</table>
+
+<hr style="border: 1px solid #1A1A1A;">
+
+<!-- Seção de Estatísticas -->
+
+<h2 align="left">📈 Estatísticas de Contribuições</h2>
 
 <br/>
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td align="center" style="padding: 10px;">
-        <!-- Linguagens mais utilizadas (Corrigido sem a barra extra) -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bellapy&layout=compact&theme=tokyonight&hide_border=true" height="190px" alt="Linguagens mais utilizadas" />
+      <td align="center" style="padding: 10px;" valign="top">
+        <img src="https://github-readme-stats.shion.dev/api?username=Bellapy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" alt="Estatísticas gerais de contribuições" />
       </td>
-      <td align="center" style="padding: 10px;">
-        <!-- Estatísticas gerais -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Bellapy&show_icons=true&theme=tokyonight&hide_border=true" height="190px" alt="Estatísticas gerais de contribuições" />
+      <td align="center" style="padding: 10px;" valign="top">
+        <!-- Linguagens mais utilizadas (Usando o servidor estável da comunidade) -->
+        <img src="https://github-readme-stats.shion.dev/api/top-langs?username=Bellapy&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180px" alt="Linguagens mais utilizadas" />
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
-
-<!-- Streak de Contribuições -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bellapy&theme=tokyonight&hide_border=true" alt="Streak de contribuição" />
-</p>
-
-<br/>
-
-<!-- Gráfico da Cobrinha (Corrigido para o link RAW do GitHub) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bellapy/Bellapy/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha de Contribuições" />
-</p>
-
 </div>
-<br/>
